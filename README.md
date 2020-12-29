@@ -8,4 +8,5 @@ Below is list of the files and a brief description of each. They are presented i
 5. **dwt** or **wpd** Decompose the data using DWT or WPD.
 6. **single_step** or **multi_step** Use the ANN to predict the coefficients
 7. **evaluate_dwt** or **evaluate_wpd** Reconstruct to give final predicted data and measure the errors <br>
+
 **hyperparameter** Used to tune the model
